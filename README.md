@@ -1,0 +1,2 @@
+# Reversi
+Old project reactivated 
